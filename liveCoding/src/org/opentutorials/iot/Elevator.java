@@ -10,7 +10,7 @@ public class Elevator {
 		System.out.println(this._id+" → Elevator callForUp stopFloor : "+stopFloor);
 		return true;
 	}
-	
+	//흠
 	public Boolean callForDown(int stopFloor) {
 		System.out.println(this._id+" → Elevator callForDown : "+stopFloor);
 		return true;
