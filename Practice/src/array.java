@@ -13,6 +13,5 @@ public class array {
 		//------------------------------------------
 		System.out.println(coffes[2]);
 	}
-//test
-	
+
 }

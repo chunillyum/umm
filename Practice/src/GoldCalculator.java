@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class GoldCalculator {
@@ -8,8 +7,8 @@ public class GoldCalculator {
         System.out.print("현재의 골드 시세를 입력하세요 (골드:금액 형태로 입력해주세요): ");
         String goldPriceInput = scanner.nextLine();
         String[] goldPriceParts = goldPriceInput.split(":");
-        int goldAmount = Integer.parseInt(goldPriceParts[0].trim());
-        int goldPrice = Integer.parseInt(goldPriceParts[1].trim());
+        int goldAmount = Integer.parseInt(goldPriceParts[0]);
+        int goldPrice = Integer.parseInt(goldPriceParts[1]);
         
         System.out.print("필요한 골드 또는 지불할 돈을 입력하세요: ");
         int amount = scanner.nextInt();
@@ -22,11 +21,8 @@ public class GoldCalculator {
             calculatedAmount = 0;
         }
         
-        System.out.println("계산된 결과~!: " + calculatedAmount);
+        System.out.println("계산된 결과 : " + calculatedAmount);
     }
-    //흠흠
-   //kkkkkkk
-    //dsdsddss
-    //dddddd
+    //흠흠//ddddd
 }
 
