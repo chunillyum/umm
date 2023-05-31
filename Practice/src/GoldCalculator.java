@@ -20,7 +20,7 @@ public class GoldCalculator {
         } else {
             calculatedAmount = 0;
         }
-        
+        //~~~~~~~~~~~~~~~
         System.out.println("계산된 결과 : " + calculatedAmount);
     }//hhhh
     //흠흠//ddddd
