@@ -22,10 +22,10 @@ public class GoldCalculator {
             calculatedAmount = 0;
         }
         
-        System.out.println("계산된 결과~~~!: " + calculatedAmount);
+        System.out.println("계산된 결과~!: " + calculatedAmount);
     }
     //흠흠
-    //kkkkkkk
+   //kkkkkkk
     //dsdsddss
     //dddddd
 }
