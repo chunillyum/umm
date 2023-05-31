@@ -19,7 +19,7 @@ public class GoldCalculator {
             calculatedAmount = (double) amount / goldPrice * goldAmount;
         } else {
             calculatedAmount = 0;
-        }
+        }//dsdsdsd
         //~~~~~~~~~~~~~~~
         System.out.println("계산된 결과 : " + calculatedAmount);
     }//hhhh
