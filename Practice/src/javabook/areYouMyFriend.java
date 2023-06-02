@@ -28,7 +28,8 @@ public class areYouMyFriend {
 		middleSchool overTen  = new middleSchool();
 		highSchool overFive  = new highSchool();
 		System.out.println(info);//메인 메소드 안에 객체 생성만 했을 뿐인데 실행되는 이유
-		//추측컨데 위 클래스들 안에 sysout이 들어가있어서가 아닐까?
+		//추측컨데 위 클래스들 안에 sysout이 들어가있어서가 아닐까? 근데 return을 하면 void는 리턴할 수 없다고
+		//오류가 나는데ㅇ 저는 void 메소드라고 하지 않았는데요 자바님ㅇ
 //		System.out.println(allTeen.hometown); //이것부턴 [Ljava.lang.String;라는 오류가 뜨는데
 		//왜인지 모르겠음. 내가 생각한 건 
 		//(eleSchool allTeen =  new eleSchool(); 이렇게 객체 생성 이후 변수에 담아서
