@@ -1,5 +1,4 @@
 package org.opentutorials.iot;
-//이것도 주석입니다노
 import java.util.Random;
 
 public class Lighting implements OnOff{

@@ -1,5 +1,5 @@
 package org.opentutorials.iot;
-//깃허브 튜토리얼입니다노
+//깃
 public class Aircon implements OnOff{
 	String _id;
 	double _desiredTemperature = 26.0;
