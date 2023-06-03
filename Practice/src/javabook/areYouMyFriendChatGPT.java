@@ -24,7 +24,7 @@ public class areYouMyFriendChatGPT {
             return hometown;
         }
     }
-
+//..
     public static void main(String[] args) {
         String[] eleSchoolHometown = EleSchool.getHometown();
         String[] middleSchoolHometown = MiddleSchool.getHometown();
