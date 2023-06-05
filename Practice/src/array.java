@@ -11,7 +11,7 @@ public class array {
 			System.out.println(e + " 하나");//for each문, 
 		}
 //		------------------------------------------
-//		System.out.println(coffes[2]);//배열 속 특정 값만 꺼내기
+//		System.out.println(coffes[2]);//배열 속 특정 값만 꺼내기xx
 	}
 
 }
