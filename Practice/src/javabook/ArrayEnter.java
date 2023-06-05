@@ -1,7 +1,7 @@
 package javabook;
 import java.util.Scanner;
 public class ArrayEnter { //지피티 코드 입맛대로 바꾸기
-	//class에 속한 배열의 값을 검사해서 입력값이 배열 속 값에 해당이 안 되면 ㅗ 를 출력
+	//class에 속한 배열의 값을 검사해서 입력값이 배열 속 값에 해당이 안 되면 ㅗ 를 출력.
 	static Scanner sc = new Scanner(System.in);
 	static class MyLife{
 		static String[] getMyFriends() {
