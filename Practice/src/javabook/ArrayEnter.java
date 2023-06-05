@@ -24,7 +24,7 @@ public class ArrayEnter { //지피티 코드 입맛대로 바꾸기
 			System.out.println("Hi blacknut");
 		}
 		else {
-			System.out.println("you are not my elefriends");
+			System.out.println("ㅗ");
 		}
 		
 	}
